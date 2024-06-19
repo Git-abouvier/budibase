@@ -52,7 +52,7 @@
     "@rollup/plugin-commonjs": "^18.0.0",
     "@rollup/plugin-image": "^3.0.2",
     "@rollup/plugin-node-resolve": "^11.2.1",
-    "postcss": "^8.2.10",
+    "postcss": "^8.4.31",
     "rollup": "^2.44.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-polyfill-node": "^0.8.0",
